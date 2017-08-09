@@ -1,0 +1,10 @@
+<ArrayOfValue xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/WebApi.Models">
+    <Value>
+        <value1>value 1</value1>
+        <value2>value 2</value2>
+    </Value>
+    <Value>
+        <value1>value 3</value1>
+        <value2>value 4</value2>
+    </Value>
+</ArrayOfValue>
